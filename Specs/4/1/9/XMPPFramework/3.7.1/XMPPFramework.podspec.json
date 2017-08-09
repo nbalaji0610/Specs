@@ -16,7 +16,7 @@
   },
   "source": {
     "git": "https://github.com/nbalaji0610/XMPPFramework.git",
-    "tag": "3.7.1"
+    "branch": "3.7.1"
   },
   "resources": [
     "**/*.{xcdatamodel,xcdatamodeld}"
