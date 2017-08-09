@@ -10,7 +10,7 @@
     "file": "copying.txt"
   },
   "summary": "An XMPP Framework in Objective-C for the Mac / iOS development community.",
-  "homepage": "https://github.com/nbalaji0610/XMPPFramework",
+  "homepage": "https://github.com/robbiehanson/XMPPFramework",
   "authors": {
     "Robbie Hanson": "robbiehanson@deusty.com"
   },
