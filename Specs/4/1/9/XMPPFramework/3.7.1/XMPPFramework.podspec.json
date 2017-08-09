@@ -1,6 +1,6 @@
 {
   "name": "XMPPFramework",
-  "version": "3.7.0",
+  "version": "3.7.1",
   "platforms": {
     "osx": "10.9",
     "ios": "8.0"
@@ -10,12 +10,12 @@
     "file": "copying.txt"
   },
   "summary": "An XMPP Framework in Objective-C for the Mac / iOS development community.",
-  "homepage": "https://github.com/robbiehanson/XMPPFramework",
+  "homepage": "https://github.com/nbalaji0610/XMPPFramework",
   "authors": {
     "Robbie Hanson": "robbiehanson@deusty.com"
   },
   "source": {
-    "git": "https://github.com/nbalaji0610/Specs.git",
+    "git": "https://github.com/nbalaji0610/XMPPFramework.git",
     "tag": "master"
   },
   "resources": [
