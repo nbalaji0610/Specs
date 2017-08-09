@@ -1,6 +1,6 @@
 {
   "name": "XMPPFramework",
-  "version": "3.7.1",
+  "version": "3.7.0",
   "platforms": {
     "osx": "10.9",
     "ios": "8.0"
@@ -15,8 +15,8 @@
     "Robbie Hanson": "robbiehanson@deusty.com"
   },
   "source": {
-    "git": "https://github.com/nbalaji0610/XMPPFramework.git",
-    "tag": "master"
+    "git": "https://github.com/robbiehanson/XMPPFramework.git",
+    "tag": "3.7.0"
   },
   "resources": [
     "**/*.{xcdatamodel,xcdatamodeld}"
